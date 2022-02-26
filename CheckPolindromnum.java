@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class CheckPolindromnum {
 	// if we revers any num then it comes as same that is 121, 111, 515,
-
+//just check
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter number");
